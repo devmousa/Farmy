@@ -14,7 +14,7 @@ html {
   scroll-behavior: smooth;
   -webkit-tap-highlight-color: transparent;
 }
-
+/* Adding Fonts */
 @font-face {
   font-family: 'black_han_sans';
   src: url('fonts/blackhansans/blackhansans-regular-webfont.woff2') format('woff2');
